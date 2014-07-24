@@ -6203,11 +6203,11 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 
 /*====================================*/
-/*-----------CUSTOM-------------------*/
+/*-----------CUSTOM CSS---------------*/
 /*====================================*/
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
 }
 
 #intro-panel {
@@ -6262,7 +6262,7 @@ body {
 
 #summary-paragraph {
   text-align: center;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 1.2em;
   letter-spacing: 0.01em;
   padding-bottom: 0.5em;
@@ -6279,7 +6279,7 @@ body {
 }
 
 #location-date {
-  font-weight: 100;
+  font-weight: 300;
   padding: 0;
   margin: 0;
   font-size: 1.2em;
@@ -6290,13 +6290,13 @@ body {
 }
 
 #work-details {
-    font-weight: 100;
+    font-weight: 300;
   font-size: 1.2em;
   letter-spacing: 0.01em;
 }
 
 #work-details-list {
-    font-weight: 100;
+    font-weight: 300;
   font-size: 1.1em;
   letter-spacing: 0.01em;
   padding-bottom: 1em;
